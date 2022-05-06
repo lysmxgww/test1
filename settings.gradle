@@ -1,0 +1,8 @@
+rootProject.name = 'ngiq-device-server'
+
+include 'start'
+include 'ngiq-device-server-web'
+include 'ngiq-device-server-api'
+include 'ngiq-device-server-service'
+include 'ngiq-device-server-manager'
+include 'ngiq-device-server-dao'
